@@ -1,7 +1,7 @@
 # Linear Regression on Hitters Baseball Dataset 
 
 <p align="center">
-	<img src=" https://metshotcorner.com/wp-content/uploads/2016/05/2016.05.25.jpg  " />
+	<img src="https://metshotcorner.com/wp-content/uploads/2016/05/2016.05.25.jpg" />
 
 </p>
 
